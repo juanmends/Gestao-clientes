@@ -17,7 +17,7 @@ Representa um nó de uma lista encadeada simples que guarda as informações dos
 Utilizada para adicionar um novo cliente à lista duplamente encadeada.
 
 
-## Função consumo_cliente|()
+## Função consumo_cliente()
 
 O usuário indica o código do cliente e código do produto. Depois, o programa percorre a lista de clientes em busca do código indicado. Caso ele seja encontrado, o produto é adicionado a lista de produtos desse cliente e uma mensagem indica que o pedido foi realizado com sucesso.
 
