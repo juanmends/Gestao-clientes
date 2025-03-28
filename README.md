@@ -2,7 +2,7 @@
 Código feito para a aula de estrutura de dados. A proposta era que criássemos um sistema simples de gestão de clientes para um estabelecimento fictício, utilizando listas encadeadas(simples e duplas).
 
 
-# Struct no_d*
+## Struct no_d
 
 Representa um nó de uma lista encadeada dupla que guarda as informações de um cliente. Possui um ponteiro para o próximo cliente da lista e um para o cliente anterior. Além disso, possui o campo "info" que indica o código do cliente(que começa em 100 e segue o padrão 100,200,300,400,...). Por fim, possui um ponteiro para uma lista encadeada simples formada pelos produtos que o cliente consumiu(começando vazia).
 
